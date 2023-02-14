@@ -1,0 +1,61 @@
+---
+title: "Lab 03 - Logistic Regression"
+author: "Lucy D'Agostino McGowan"
+format: 
+  html:
+    self-contained: true
+editor: visual
+---
+
+### Load packages
+
+```{r load-packages, message = FALSE, warning = FALSE}
+library(tidyverse) 
+library(tidymodels)
+library(ISLR)
+library(GGally)
+```
+
+### Exercise 1
+
+(Type your answer to Exercise 1 here. This exercise does not require any R code.)
+
+## Exercise 2
+
+(Type your answer to Exercise 2 here. This exercise does not require any R code.)
+
+## Exercise 3
+
+(Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, green C+.)
+
+### Exercise 4
+
+(Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, green C+.)
+
+### Exercise 5
+
+(Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, green C+.)
+
+### Exercise 6
+
+(Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, green C+.)
+
+### Exercise 7
+
+(Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, green C+.)
+
+### Exercise 8
+
+(Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, green C+.)
+
+### Exercise 9
+
+(Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, green C+.)
+
+## Exercise 10
+
+(Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, green C+.)
+
+## Exercise 11
+
+## 
